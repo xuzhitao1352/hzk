@@ -1,5 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+// 组件样式
+import 'antd-mobile/dist/antd-mobile.css'
+// 自己的样式
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';

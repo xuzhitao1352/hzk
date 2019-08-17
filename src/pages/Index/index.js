@@ -5,7 +5,7 @@ class App extends React.Component{
     this.state={}
   }
   render(){
-    return <div>Index</div>
+    return <div>Home</div>
   }
 }
 export default App
